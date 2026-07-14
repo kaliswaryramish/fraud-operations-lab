@@ -9,7 +9,6 @@ graph TD
     A["🎫 Payment Support Executive<br/>Apr 2017 – Oct 2018"] --> B["📊 Risk Analyst<br/>Oct 2018 – Dec 2021"]
     B --> C["🔧 Risk Operations Specialist<br/>Jan 2022 – Mar 2024"]
     C --> D["🛡️ Risk Operations Senior Specialist<br/>Apr 2024 – Present"]
-    D --> E["🏆 SPF Outstanding Stakeholder Award<br/>2025"]
 ```
 
 </div>
