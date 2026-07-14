@@ -67,5 +67,3 @@ Currently leading first-line financial crime operations for a **12-member region
 </div>
 
 ---
-
-> `TODO: Confirm with portfolio owner` — whether you'd like specific case studies from any of these roles expanded into standalone folders elsewhere in the repository.
