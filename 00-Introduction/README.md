@@ -54,7 +54,7 @@ timeline
 
 ## 📁 Why This Repository?
 
-I built **Fraud-Operations-Lab** to make internal, invisible work — case investigations, control redesigns, regional operations — legible to people outside the organization I built it in. Every section is grounded in verified experience; nothing here is exaggerated.
+I built this **FraudOps Portfolio** to make the behind the scenes work of fraud operations visible and understandable to people outside my organization. It documents real investigations, control redesigns, process improvements, and regional operational initiatives that typically remain internal. Every section is based on verified experience and authentic work, presented without exaggeration.
 
 ## 🧭 Folder Navigation
 
