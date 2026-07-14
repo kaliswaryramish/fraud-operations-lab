@@ -1,4 +1,4 @@
-# Fraud Operations Lab
+# FraudOps Portfolio
 
 > A professional portfolio showcasing fraud operations, SQL analytics, AI-assisted investigations, dashboards, process improvement, and operational risk management through fictional fintech scenarios.
 
@@ -6,7 +6,7 @@
 
 ## Welcome
 
-Welcome to **Fraud Operations Lab**.
+Welcome to **FraudOps Portfolio**.
 
 This repository is a collection of original projects designed to demonstrate how I approach fraud investigations, operational excellence, SQL analytics, AI-assisted workflows, and risk control improvements within a fintech environment.
 
