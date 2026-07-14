@@ -105,8 +105,8 @@ This portfolio reflects how I approach operational problems, structure investiga
 
 ## Connect
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- Email: *(Add your email)*
+- LinkedIn: *[(LinkedIn)](https://www.linkedin.com/in/kaliswary-ramish/)*
+- Email: *iswaryramish21@gmail.com*
 
 ---
 
