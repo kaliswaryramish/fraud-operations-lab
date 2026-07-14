@@ -74,7 +74,7 @@ This portfolio is built around four principles:
 fraud-operations-lab
 
 00-Introduction
-01-SQL-Investigations
+01-Fraud-Investigations
 02-Investigation-Playbooks
 03-AI-for-FraudOps
 04-Dashboards-and-MI
