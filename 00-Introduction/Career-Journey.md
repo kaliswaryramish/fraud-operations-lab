@@ -1,6 +1,11 @@
+<div align="center">
+
 # 🛤️ Career Journey
 
-<div align="center">
+![Timeline](https://img.shields.io/badge/Career-9%2B%20Year%20Journey-blue?style=flat-square)
+![Growth](https://img.shields.io/badge/Trajectory-Analyst%20to%20Manager-success?style=flat-square)
+
+</div>
 
 *All progression built within Grab (GPay Networks Sdn. Bhd.), across 5 Southeast Asian markets.*
 
