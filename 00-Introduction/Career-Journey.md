@@ -3,14 +3,14 @@
 # 🛤️ Career Journey
 
 ![Timeline](https://img.shields.io/badge/Career-9%2B%20Year%20Journey-blue?style=flat-square)
-![Growth](https://img.shields.io/badge/Trajectory-Analyst%20to%20Manager-success?style=flat-square)
+![Growth](https://img.shields.io/badge/Trajectory-Analyst%20to%20Management_Level-success?style=flat-square)
 
 </div>
+ All progression built within Grab (GPay Networks Sdn. Bhd.), across 5 Southeast Asian markets. 
 
-*All progression built within Grab (GPay Networks Sdn. Bhd.), across 5 Southeast Asian markets.*
 
 ```mermaid
-graph TD
+graph LR 
     A["🎫 Payment Support Executive<br/>Apr 2017 – Oct 2018"] --> B["📊 Risk Analyst<br/>Oct 2018 – Dec 2021"]
     B --> C["🔧 Risk Operations Specialist<br/>Jan 2022 – Mar 2024"]
     C --> D["🛡️ Risk Operations Senior Specialist<br/>Apr 2024 – Present"]
