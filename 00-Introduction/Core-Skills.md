@@ -1,16 +1,9 @@
-# 🧰 Core Skills
-
 <div align="center">
 
-![Fraud Investigation](https://img.shields.io/badge/Fraud-Investigation-C0392B?style=for-the-badge)
-![Merchant Risk](https://img.shields.io/badge/Merchant-Risk-C0392B?style=for-the-badge)
-![Chargebacks](https://img.shields.io/badge/Chargebacks-C0392B?style=for-the-badge)
-![Account Takeover](https://img.shields.io/badge/Account%20Takeover-Investigation-C0392B?style=for-the-badge)
+# 🛠️ Core Skills
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Dynamics 365](https://img.shields.io/badge/Microsoft%20Dynamics%20365-002050?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Skills](https://img.shields.io/badge/Skill%20Areas-12-blue?style=flat-square)
+![Level](https://img.shields.io/badge/Level-Senior--Track-success?style=flat-square)
 
 </div>
 
